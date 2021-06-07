@@ -1,4 +1,4 @@
-edad = int (imput ("Ingrese su edad: "))
+edad = int (input ("Ingrese su edad: "))
 
 if (edad >64):
     print("TERCERA EDAD")
